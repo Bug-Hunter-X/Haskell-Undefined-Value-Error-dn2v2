@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in Haskell: using the `undefined` value. The `bug.hs` file contains the erroneous code. The `bugSolution.hs` file shows how to fix the issue by providing a defined value or handling the potential absence of a value using pattern matching or the Maybe monad.
